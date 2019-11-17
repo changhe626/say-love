@@ -10,9 +10,10 @@
     </parent>
     <groupId>com.onyx</groupId>
     <artifactId>say-love</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.1-RELEASE</version>
+    <packaging>jar</packaging>
     <name>say-love</name>
-    <description>Demo project for Spring Boot</description>
+    <description>告白项目</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

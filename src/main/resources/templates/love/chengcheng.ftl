@@ -165,12 +165,13 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
             var together = new Date();
-            // 设置时间, 年月日
-            together.setFullYear(2019,2,8);
-            together.setHours(12);
-            together.setMinutes(20);
-            together.setSeconds(52);
-            together.setMilliseconds(520);
+            // 设置时间, 年月日,
+            // 注意了 这里的月份要比正确时间减去1 , 原来是2019.10.21. 这里写2019,9,21
+            together.setFullYear(2019,9,21);
+            together.setHours(16);//小时
+            together.setMinutes(1);//分钟
+            together.setSeconds(1);//秒
+            together.setMilliseconds(520);//微秒
 
             $("#code").show().typewriter();
             $("#clock-box").fadeIn(500);
