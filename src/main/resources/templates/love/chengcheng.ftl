@@ -1,16 +1,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>程程老师,您好</title>
-        <link type="text/css" rel="stylesheet" href="/static/user/Love_files/default.css">
-        <script type="text/javascript" src="/static/user/Love_files/jquery.min.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/jscex.min.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/jscex-parser.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/jscex-jit.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/jscex-builderbase.min.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/jscex-async.min.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/jscex-async-powerpack.min.js"></script>
-        <script type="text/javascript" src="/static/user/Love_files/functions.js" charset="utf-8"></script>
-        <script type="text/javascript" src="/static/user/Love_files/love.js" charset="utf-8"></script>
+        <link type="text/css" rel="stylesheet" href="/static/user/css/default.css">
+        <script type="text/javascript" src="/static/user/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/static/user/js/jscex.min.js"></script>
+        <script type="text/javascript" src="/static/user/js/jscex-parser.js"></script>
+        <script type="text/javascript" src="/static/user/js/jscex-jit.js"></script>
+        <script type="text/javascript" src="/static/user/js/jscex-builderbase.min.js"></script>
+        <script type="text/javascript" src="/static/user/js/jscex-async.min.js"></script>
+        <script type="text/javascript" src="/static/user/js/jscex-async-powerpack.min.js"></script>
+        <script type="text/javascript" src="/static/user/js/functions.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/user/js/love.js" charset="utf-8"></script>
     </head>
     <body>
         <div id="main">
@@ -28,7 +28,7 @@
                 </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
             </div>
-            <audio src="/static/user/Love_files/love.mp3" autoplay="autoplay"></audio>
+            <audio src="/static/user/mp3/love.mp3" autoplay="autoplay"></audio>
         </div>
     
     <script>
