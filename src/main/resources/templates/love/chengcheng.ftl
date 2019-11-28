@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>程程老师,您好</title>
+        <title>程程老师,你好</title>
         <link type="text/css" rel="stylesheet" href="/static/user/css/default.css">
         <script type="text/javascript" src="/static/user/js/jquery.min.js"></script>
         <script type="text/javascript" src="/static/user/js/jscex.min.js"></script>
@@ -17,13 +17,20 @@
             <div id="wrap">
                <div id="text">
                     <div id="code">                 
-                    <span class="say">这是示例的第一句话</span><br>
+                    <span class="say">不知道远端的程程睡着了没有?应该没有失眠吧,我却睡不着,也不知道写些什么,就随便写点吧</span><br>
+                    <span class="say">我们相识于网络,聊天,感觉很舒服,第一次因为我的误会没见面,然后我专门请假才得一睹芳容,不容易</span><br>
+                    <span class="say">头一次为了见一个人专门去请假.哈哈哈,也是值得的</span><br>
+                    <span class="say">这么长时间的相处下来,你是一个很漂亮,很善良,正直无阿,会种花花草草,会勤快的给花花草草换土,懂得和欣赏生活,还会弹吉他,</span><br>
+                    <span class="say">一位有爱心的老师,爱护小朋友,持续的学习进步,有时候还有点调皮,会不会说太多了,然后就很骄傲了,哈哈哈</span><br>
+                    <span class="say">和你一起去吃饭,看电影,逛华科都是很开心的.</span><br>
+                    <span class="say">我保证你会好好的,我们一起去吃炒肥肠,吃板栗烧鸡,吃蛋炒小葱</span><br>
+                    <span class="say">All Weather With You</span><br>
                    <br>
-                    <span class="say" style="color: red"><span class="space"></span> --Yours, 想你的科科.</span>
+                    <span class="say" style="color: red"><span class="space"></span> --Yours, 此刻正在想你的我.</span>
                     </div>
                 </div>
                 <div id="clock-box">
-                    <a href="http://blog.csdn.net/u010398771" target="_blank">程程</a> 与 <a href="http://blog.csdn.net/u010398771" target="_blank">阿科</a> 认识
+                    <a href="http://blog.csdn.net/u010398771" target="_blank">程程</a> 与 <a href="http://blog.csdn.net/u010398771" target="_blank">科</a> 认识
                         <div id="clock"></div>
                 </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
